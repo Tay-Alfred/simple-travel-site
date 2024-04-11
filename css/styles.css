@@ -1,6 +1,15 @@
-p{background-color: pink; 
-    font-size: large;}
-#TheSpecialOne{background-color:black ; color: #ffb6c1;}
-a:hover{background-color: #ffb6c1;color: bisque;}
+body{background-color: black;}
+h1{color: #ffb6c1;}
+td{color: #ffb6c1;}
+h2{color: #ffb6c1;}
+p{color: pink; 
+    font-size: large;
+background-color: black;}
+p{font-family: Georgia, 
+    'Times New Roman', Times, serif;}
+#TheSpecialOne{background-color:black ;
+     color: #ffb6c1;}
+a:hover{background-color: #ffb6c1;
+    color: bisque;}
 a:visited{background-color: bisque;}
-  
+table{border-color: #ffb6c1;}
